@@ -28,3 +28,4 @@ font.png:
   grid.size: 5x7
   grid.padding: 1
   proportional: true
+  name: font
