@@ -18,8 +18,13 @@ set(ASSETS
   # ...
 )
 set(ASSETS_fx
-  assets-fx/example.png
-  # ...
+  assets-fx/c_h.png
+  assets-fx/c_v.png
+  assets-fx/l_h.png
+  assets-fx/l_v.png
+  assets-fx/r_h.png
+  assets-fx/r_v.png
+  assets-fx/font.png
 )
 set(ASSETS_cg
   assets-cg/example.png

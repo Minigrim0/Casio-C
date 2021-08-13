@@ -1,3 +1,30 @@
-example.png:
+l_v.png:
   type: bopti-image
-  name: img_example
+  name: vertical_self
+
+l_h.png:
+  type: bopti-image
+  name: horizontal_self
+
+c_v.png:
+  type: bopti-image
+  name: vertical_capa
+
+c_h.png:
+  type: bopti-image
+  name: horizontal_capa
+
+r_v.png:
+  type: bopti-image
+  name: vertical_resistor
+
+r_h.png:
+  type: bopti-image
+  name: horizontal_resistor
+
+font.png:
+  type: font
+  charset: print
+  grid.size: 5x7
+  grid.padding: 1
+  proportional: true
