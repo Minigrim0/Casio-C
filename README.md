@@ -1,6 +1,6 @@
-# ELECasio
+# Casio Dev
 
-A simple circuit solver for casio 35-E.
+A test for developping in C on casio 35+e
 
 This project was built using [fxSDK](https://aur.archlinux.org/packages/fxsdk/)
 
